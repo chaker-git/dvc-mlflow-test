@@ -1,0 +1,2 @@
+['remote "myremote"']
+    url = https://github.com/chaker-git/dvc-mlflow-test.git
